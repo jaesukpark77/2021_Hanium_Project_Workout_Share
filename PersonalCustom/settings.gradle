@@ -1,0 +1,2 @@
+rootProject.name = "SMIM_Custom"
+include ':app'
