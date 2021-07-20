@@ -14,7 +14,7 @@ public class MainActivity extends YouTubeBaseActivity {
     YouTubePlayerView playerView;
     YouTubePlayer player;
 
-    private static String API_KEY = "AIzaSyCygDgOKR8lPDOkNv4J62DH9nWDz9J3Ob8";
+    private static String API_KEY = "YOURAPIKEY";
     private static String videoId = "bJlHUCIzLF8";
 
     @Override
