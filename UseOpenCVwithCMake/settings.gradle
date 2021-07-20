@@ -1,0 +1,3 @@
+rootProject.name = "Use OpenCV with CMake"
+include ':app'
+include ':sdk'
